@@ -18,7 +18,7 @@ Aqui o meu projeto que desenvolvi para o setor da empresa que trabalho atualment
 * **Tecnologias:** HTML, CSS, JavaScript, Supabase (para Banco de Dados, Autenticação e Armazenamento).
 * **Status:** Ativo
 * **Ver no GitHub**([https://github.com/SeuUsuario/sistema-gestao-manutencao](https://github.com/leoonardooliveira/controle-manutencao-supabase))
-* **Ver Projeto Online**([LINK_DO_SEU_PROJETO_HOSPEDADO_SE_TIVER](https://leoonardooliveira.github.io/controle-manutencao-supabase/)) 
+* **Ver Projeto Online**([https://leoonardooliveira.github.io/controle-manutencao-supabase/]) 
 
 ## Contato
 * **Email:** leodeoliveiraguimaraes@gmail.com
