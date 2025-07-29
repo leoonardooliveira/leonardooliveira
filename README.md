@@ -17,8 +17,8 @@ Aqui o meu projeto que desenvolvi para o setor da empresa que trabalho atualment
 * **Descrição:** Um sistema para registrar, gerenciar e acompanhar problemas de manutenção em máquinas industriais. Permite o registro de novas ocorrências, alteração de status (A Fazer, Em Andamento, Concluído), visualização de histórico de alterações, e geração de relatórios/ordens de serviço em PDF.
 * **Tecnologias:** HTML, CSS, JavaScript, Supabase (para Banco de Dados, Autenticação e Armazenamento).
 * **Status:** Ativo
-* [**Ver no GitHub**]([https://github.com/SeuUsuario/sistema-gestao-manutencao](https://github.com/leoonardooliveira/controle-manutencao-supabase))
-* [**Ver Projeto Online**]([LINK_DO_SEU_PROJETO_HOSPEDADO_SE_TIVER](https://leoonardooliveira.github.io/controle-manutencao-supabase/)) 
+* **Ver no GitHub**([https://github.com/SeuUsuario/sistema-gestao-manutencao](https://github.com/leoonardooliveira/controle-manutencao-supabase))
+* **Ver Projeto Online**([LINK_DO_SEU_PROJETO_HOSPEDADO_SE_TIVER](https://leoonardooliveira.github.io/controle-manutencao-supabase/)) 
 
 ## Contato
 * **Email:** leodeoliveiraguimaraes@gmail.com
